@@ -15,6 +15,7 @@ const Experience = () => {
         <img src={HashnateLogo} alt='HashnateLogo' className='experienceBarImg'/>
         <div className='experienceBarText'>
             <h2>Hashnate Software Company</h2>
+            <h4>Intern Software Engineer</h4>
             <p>As a Software Engineer Intern at Hashnate, I contributed to various projects, 
                 gaining valuable experience in the software development lifecycle. 
                 I played a key role in designing, developing, and deploying impactful projects,
