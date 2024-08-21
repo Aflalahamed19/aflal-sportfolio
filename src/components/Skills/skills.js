@@ -9,7 +9,7 @@ const Skills = () => {
   return (
     <section id='skills'>
         <span className='skillsTitle'>What I do</span>
-        <span className='skillsDecs'> I specialize in designing and developing web applications and websites, with a strong focus on both frontend and backend technologies. My work involves building dynamic, user-friendly interfaces and robust backend systems that meet the needs of modern businesses.</span>
+        <span className='skillsDesc'> I specialize in designing and developing web applications and websites, with a strong focus on both frontend and backend technologies. My work involves building dynamic, user-friendly interfaces and robust backend systems that meet the needs of modern businesses.</span>
     <div className='skillsBars'>
         
         <div className='skillsBar'>

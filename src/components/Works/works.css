@@ -17,9 +17,10 @@
 }
 
 .worksDesc {
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1rem;
-    min-width: 45rem;
+    max-width: 51rem;
+    padding: 0 2rem;
 }
 
 .worksImgs {
@@ -51,3 +52,4 @@
     height: 48vw;
     }
 }
+

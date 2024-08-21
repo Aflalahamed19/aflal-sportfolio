@@ -8,7 +8,7 @@ const Experience = () => {
   return (
     <section id='experiences'>
     <span className='experienceTitle'>Experience</span>
-    <span className='experienceDecs'>I am well expreance in a software engineering feild. i am doing for website design, app design and UI/UX design such as a relavant feild . i ahave a good expreqanced in the mysql oracle etc.</span>
+    <span className='experienceDesc'>I am well expreance in a software engineering feild. i am doing for website design, app design and UI/UX design such as a relavant feild . i ahave a good expreqanced in the mysql oracle etc.</span>
 <div className='experienceBars'>
     
     <div className='experienceBar'>
